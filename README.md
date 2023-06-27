@@ -136,12 +136,12 @@ filename label
 
 The config files follow [mmcls](https://github.com/open-mmlab/mmclassification) style.
 ```bash
-PYTHONPATH=.:$PYTHONPATH mim train <config>
+PYTHONPATH=.:$PYTHONPATH mim train mmcls <config>
 ```
 
 **Testing**
 ```bash
-PYTHONPATH=.:$PYTHONPATH mim test <config> --checkpoint <checkpoint> --metrics <metrics>
+PYTHONPATH=.:$PYTHONPATH mim test mmcls <config> --checkpoint <checkpoint> --metrics <metrics>
 ```
 
 ## 🙋‍♀️ Feedback and Contact
@@ -151,4 +151,12 @@ PYTHONPATH=.:$PYTHONPATH mim test <config> --checkpoint <checkpoint> --metrics <
 
 ## 📝 Citation
 
-TO BE ADDED.
+If you find this code useful, please cite us in your research papers.
+```text
+@inproceedings{zhang2023text,
+  title={Text-guided Foundation Model Adaptation for Pathological Image Classification},
+  author={Zhang, Yunkun and Gao, Jin and Zhou, Mu and Wang, Xiaosong and Qiao, Yu and Zhang, Shaoting and Wang, Dequan},
+  booktitle={MICCAI},
+  year={2023}
+}
+```
