@@ -50,7 +50,7 @@
 [![GitHub license](https://img.shields.io/github/license/opendilab/DI-engine)](https://github.com/opendilab/DI-engine/blob/master/LICENSE)
 -->
 
-Updated on 2023.06.08
+Updated on 2023.06.27
 
 
 
