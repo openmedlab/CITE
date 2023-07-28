@@ -50,7 +50,7 @@
 [![GitHub license](https://img.shields.io/github/license/opendilab/DI-engine)](https://github.com/opendilab/DI-engine/blob/master/LICENSE)
 -->
 
-Updated on 2023.06.27
+Updated on 2023.07.28
 
 
 
@@ -66,7 +66,7 @@ This repository provides the official implementation of *Text-guided Foundation 
 
 ## Links
 
-- [Paper](https://)
+- [Paper](https://arxiv.org/abs/2307.14901)
 - [Code](https://github.com/Yunkun-Zhang/CITE)
 - Pre-trained models
   - [CLIP](https://github.com/openai/CLIP)
