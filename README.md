@@ -87,7 +87,7 @@ Through extensive experiments on the PatchGastric stomach tumor pathological ima
 An overview of CITE:
 <!-- Insert a pipeline of your algorithm here if got one -->
 <div align="center">
-    <a href="https://"><img width="1000px" height="auto" src="assets/method.png"></a>
+    <a href="https://"><img width="1000px" height="auto" src="method.png"></a>
 </div>
 
 
